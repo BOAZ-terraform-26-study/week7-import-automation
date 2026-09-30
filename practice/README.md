@@ -1,4 +1,4 @@
-# Week7 실습 A — modern import
+# Week7 실습 A: modern import
 ```bash
 cp example.tfvars terraform.tfvars
 # 콘솔에서 <project_name>-manual2 버킷 생성
